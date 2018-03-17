@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
+    /// Height
     var height : Double?
     var weight : Double?
     var message : String = "Please Input Your Height And Weight!"
