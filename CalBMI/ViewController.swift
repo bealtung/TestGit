@@ -42,7 +42,7 @@ class ViewController: UIViewController {
             message = "Your BMI is fat!"
         }
         
-        inputHeightField.text = "0"
+        inputHeightField.text = "100"
         inputWeightField.text = "0"
         
         
