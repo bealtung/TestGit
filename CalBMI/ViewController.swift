@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    //Beal Mark
     /// Height
     var height : Double?
     var weight : Double?
