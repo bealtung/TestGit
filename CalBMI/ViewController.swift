@@ -43,7 +43,7 @@ class ViewController: UIViewController {
         }
         
         inputHeightField.text = "100"
-        inputWeightField.text = "0"
+        inputWeightField.text = "500"
         
         
     }
