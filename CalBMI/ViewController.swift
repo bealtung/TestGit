@@ -9,7 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    
     var height : Double?
     var weight : Double?
     var message : String = "Please Input Your Height And Weight!"
@@ -31,6 +32,8 @@ class ViewController: UIViewController {
         
         bmi = weight! / (height! * height!)
         
+        
+
         
         if bmi! <= 18.5{
             message = "Your BMI is to light!"
