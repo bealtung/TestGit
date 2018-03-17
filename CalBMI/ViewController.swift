@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     // testing
     
     //Beal Mark
-    /// Height------
+    /// Height------=-=-=-=
     var height : Double?
     var weight : Double?
     var message : String = "Please Input Your Height And Weight!"
