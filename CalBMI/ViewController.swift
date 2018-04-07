@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     /// Height
     var height : Double?
+    //Weight
     var weight : Double?
     var message : String = "Please Input Your Height And Weight!"
     var bmi : Double?
